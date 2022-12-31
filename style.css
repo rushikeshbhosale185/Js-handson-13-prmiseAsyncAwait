@@ -1,0 +1,21 @@
+body{
+    background-color: cadetblue;
+    color: aqua;
+    margin: 2rem;
+}
+h1{
+    text-align: center;
+    font-family: cursive;
+}
+h3{
+    border: 3px dashed rgb(1, 48, 1);
+    background-color: gainsboro;
+    color: darkcyan;
+    border-radius: 1rem;
+}
+h3:hover{
+    cursor: pointer;
+    color: rgb(38, 255, 0);
+    background-color: black;
+    border: 4px groove gold;
+}
